@@ -1402,10 +1402,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@kitware/vtk.js@^21.1.1":
-  version "21.1.1"
-  resolved "https://registry.yarnpkg.com/@kitware/vtk.js/-/vtk.js-21.1.1.tgz#9da12fd7b88dbb67cd888fd6752c3364564fda59"
-  integrity sha512-wIQ9psaGfcs4QuRgFO9gKQNtqNoAnz+/K5xP91KQF5NBqUNzYQGAgRtYOLZdKIaq8Yz9t7w3Wc4wYsv1BDPHlA==
+"@kitware/vtk.js@^20.1.3":
+  version "20.4.1"
+  resolved "https://registry.yarnpkg.com/@kitware/vtk.js/-/vtk.js-20.4.1.tgz#fdfedd0b7868dede88a2a2fc51ca427edecf6330"
+  integrity sha512-zOlGE0fGarjkgxqkRKD9Dy9JYoUXlxtdJeFM21fJ2dF9qT6viHYsMEiWLU3YCcLXia9tnIz4OJadBC3LAA3rjg==
   dependencies:
     "@babel/runtime" "7.15.4"
     blueimp-md5 "2.18.0"
