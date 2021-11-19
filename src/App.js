@@ -14,7 +14,7 @@ function Example(props) {
           }}
           showScalarBar={false}
         >
-          <Reader vtkClass="vtkXMLPolyDataReader" url="can_0.vtp" />
+          <Reader vtkClass="vtkPLYReader" url="merged.ply" />
         </GeometryRepresentation>
       </View>
     </div>
